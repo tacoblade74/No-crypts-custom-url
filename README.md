@@ -3,7 +3,7 @@ A react app for importing your civitai bookmarks into [NoCrypt's google colab](h
 
 Now you can select whichever model or LoRA you want (that you have bookmarked in civitai) and this react app while generate a string that you can paste into custom url field
 
-The homepage has 2 cards and a text field. One card takes you to models page where you can see all checkpoints. Each card here can be selected by clicking on them, this will add it's download url to the final custom url string (on homepage). You can also visit the civitai page for the model/LoRA by clicking on the title of that model/LoRA  on top of the card!
+The homepage has 2 cards and a text field. One card takes you to models page where you can see all checkpoints and other card takes you to LoRAs page. Each card in these pages can be selected by clicking on them, this will add it's download url to the final custom url string (on homepage). You can also visit the civitai page for the model/LoRA by clicking on the title of that model/LoRA  on top of the card!
 
 # Running the website
 
