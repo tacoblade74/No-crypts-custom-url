@@ -10,7 +10,7 @@ The homepage has 2 cards and a text field. One card takes you to models page whe
 I tried a lot to host this directly on github but No, nothing wants to work conveniently so please forgive for making you "install" the react app and run it on your local machine.
 
 ## Clone the repo
-`git clone bla`
+`git clone https://github.com/tacoblade74/No-crypts-custom-url.git`
 
 ## Prereq
 - Make sure you have node installed. You can install it from official node.js site.   
